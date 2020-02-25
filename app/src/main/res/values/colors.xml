@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007dfb</color>
+    <color name="colorPrimaryDark">#007dfb</color>
+    <color name="colorAccent">#007dfb</color>
+    <color name="chooseTypeTextColor">#007cd6</color>
+    <color name="fillFieldsTextColor">#99303030</color>
+    <color name="step3UploadBoldTextColor">#3b3b3b</color>
+    <color name="editTextColor">#303030</color>
+    <color name="grayBgText">#0d000000</color>
+    <color name="grayText">#66000000</color>
+    <color name="greenGradient1">#00c9a7</color>
+    <color name="greenGradient2">#09a48a</color>
+    <color name="greeanText">#17c500</color>
+    <color name="grayGradient2">#0F000000</color>
+    <color name="yellowStar">#ffb300</color>
+    <color name="windowColorWhite">#efffffff</color>
+    <color name="fadedWhite">#33ffffff</color>
+    <color name="grayBooked">#e0e0e0</color>
+    <color name="whiteBookingDetails">#f7f7f7</color>
+    <color name="lightgray">#f0f0f0</color>
+    <color name="chooseTypeSelector">#008AFF</color>
+    <color name="bgGradientBlue">#0036ff</color>
+    <color name="chooseTypeSelectorFaded">#55008AFF</color>
+    <color name="radioTextSelectedBg">#004ac2</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="colorOrange">#ebae1f</color>
+    <color name="colorGray">#BCBCBC</color>
+    </resources>

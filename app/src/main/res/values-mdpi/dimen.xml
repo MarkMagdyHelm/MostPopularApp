@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">54sp</dimen>
+    <dimen name="big_title_text_size">120sp</dimen>
+    <dimen name="user_name_title">75sp</dimen>
+    <dimen name="fill_fields_text_size">45sp</dimen>
+    <dimen name="tiny_text_size">30sp</dimen>
+    <dimen name="step_3_bold_text_size">54sp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="skip_corner">15dp</dimen>
+    <dimen name="row_rounded_pad_horizon">16dp</dimen><!--16.3 pt-->
+    <dimen name="bg_rounded_white_corners">30dp</dimen>
+    <dimen name="card_margin_account_horizontal">60dp</dimen>
+    <dimen name="card_margin_account_top">150dp</dimen>
+    <dimen name="subject_icon_size">120dp</dimen>
+    <dimen name="pp_size">300dp</dimen>
+    <dimen name="pp_corner_radius">150dp</dimen>
+    <dimen name="edit_size">90dp</dimen>
+    <dimen name="edit_corner_radius">45dp</dimen>
+    <dimen name="edit_iv_margin">24dp</dimen>
+    <dimen name="edit_margin_top">195dp</dimen>
+    <dimen name="container_margin_top">15dp</dimen>
+    <dimen name="card_elevation">30dp</dimen>
+    <dimen name="card_elevation_small">6dp</dimen>
+    <dimen name="edit_elevation">33dp</dimen>
+    <dimen name="edit_text_padding_vertical">30dp</dimen>
+    <dimen name="edit_text_corner_radius">72dp</dimen>
+    <dimen name="spinner_icon_horizontal">75dp</dimen>
+    <dimen name="spinner_dimens">60dp</dimen>
+    <dimen name="submit_btn_padding">90dp</dimen>
+    <dimen name="design_fab_image_size_">168dp</dimen>
+    <dimen name="design_fab_image_size_half" >84dp</dimen>
+    <dimen name="teacher_item_size">360dp</dimen>
+    <dimen name="small_size_dash">9dp</dimen>
+    <dimen name="margin_top_negative_small">-30dp</dimen>
+    <dimen name="margin_top_negative">-60dp</dimen>
+
+</resources>

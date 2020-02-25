@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TranslucentTransparent" parent="AppTheme">
+        <item name="android:windowBackground">@color/windowColorWhite</item>
+        <item name="colorPrimaryDark">@color/windowColorWhite</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

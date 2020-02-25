@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">MostPopularApp</string>
+
+    <string name="loading">Loading …</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="choose_type">Choose Type</string>
+    <string name="choose">Choose</string>
+    <string name="profile">Profile</string>
+    <string name="pls_fill_fields_below">Please Fill Fields Below</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="upload_your_documents">Upload Your Documents</string>
+    <string name="fees_and_location_info">Location and fees Information</string>
+    <string name="first_name">First Name</string>
+    <string name="owners_first_name">Owner\'s First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="owners_last_name">Owner\'s Last Name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="biography">biography</string>
+    <string name="curriculum">Curriculum</string>
+    <string name="location">Location</string>
+    <string name="center_name">Center/studio name </string>
+    <string name="grade">Grade</string>
+    <string name="contact_list">Contact List</string>
+    <string name="my_schedule">my schedule</string>
+    <string name="invite">Invite</string>
+    <string name="invite_friend">Invite Friend</string>
+    <string name="invited">Invited</string>
+    <string name="friend_list">Friend list</string>
+    <string name="help">Help</string>
+    <string name="select">Select</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="wallet_hint">You will got your money from Nearest location per week.</string>
+    <string name="continue_">Continue</string>
+    <string name="center_information">Center Information</string>
+    <string name="school_name">School name</string>
+    <string name="school">School</string>
+    <string name="separator_user_name">|\t\tUSER NAME</string>
+    <string name="separator_email">|\t\tEMAIL</string>
+    <string name="separator_password">|\t\tPASSWORD</string>
+    <string name="city">City</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone">Phone</string>
+    <string name="search">|\t\tSearch</string>
+    <string name="confirm_phone_number">Confirm phone number</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="confirm_email">Confirm email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="new_password">New Password</string>
+    <string name="re_new_password">Re-New Password</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="fees_per_hour">Fees per hour</string>
+    <string name="finish">Finish</string>
+    <string name="report_issue">Report an issue</string>
+    <string name="logout">Logout</string>
+    <string name="reschedule">Reschedule</string>
+    <string name="upload_national_id">Upload national id </string>
+    <string name="must_enter">Must Enter</string>
+    <string name="upload_cv">Upload CV</string>
+    <string name="commercial_paper">commercial paper</string>
+    <string name="upload_certificate">Upload certificate</string>
+    <string name="forget_password">Forgot password</string>
+    <string name="underline_forget_password"><u>Forgot password?</u></string>
+    <string name="underline_create_account"><u>Create Account?</u></string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="send_limk">send link</string>
+    <string name="add_credit_card_details">Add credit card details</string>
+    <string name="edit_credit_card_details">Edit credit card details</string>
+    <string name="name_on_card">Name On Card</string>
+    <string name="ex_date">EX Date</string>
+    <string name="security_id">Security ID</string>
+    <string name="login">login</string>
+    <string name="write">Write</string>
+    <string name="add">Add</string>
+    <string name="error_uploading_file">Error uploading file !</string>
+    <string name="edit">Edit</string>
+    <string name="payment_method">payment method</string>
+    <string name="payment">payment</string>
+    <string name="enter_card_no">enter naga7ny card number</string>
+    <string name="card_no">Card number</string>
+    <string name="via_credit">Via Credit/Debt Cards</string>
+    <string name="confirm_">Confirm</string>
+    <string name="check_shops_location">Check Naga7ny Shops locations</string>
+    <string name="via_naga7ny">Via Naga7ny Cards</string>
+    <string name="teacher_schedule">Teacher Schedule</string>
+    <string name="center_schedule">Center Schedule</string>
+    <string name="center_schedule_desc">To check Center schedule and availability click below</string>
+    <string name="teacher_schedule_desc">To check teacher\'s schedule and availability click below</string>
+    <string name="student">Student</string>
+    <string name="schedule_lesson">SCHEDULE LESSON</string>
+    <string name="teacher">Teacher</string>
+    <string name="recently_booked">Recently Booked</string>
+    <string name="my_history">My History</string>
+    <string name="directions">Directions</string>
+    <string name="latest_reservations">latest Reservations</string>
+    <string name="teachers">Teachers</string>
+    <string name="home">Home</string>
+    <string name="in_home">In Home</string>
+    <string name="out_home">Out Home</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="my_profile">My profile</string>
+    <string name="my_lessons">My lessons</string>
+    <string name="distance">Distance</string>
+    <string name="shops">Shops</string>
+    <string name="check_naga7ny_shops">Check Naga7ny Shops </string>
+    <string name="choose_duration_date">Choose Duration and Date</string>
+    <string name="min_rate">Min rate</string>
+    <string name="place">Place</string>
+    <string name="center">Center</string>
+    <string name="special_needs">Special needs</string>
+    <string name="skip">Skip</string>
+    <string name="owner">Owner : %s</string>
+    <string name="years_experience">%d @string/years_count Experiences</string>
+    <string name="format_money">%.1f EGP</string>
+    <string name="format_wallet">Students : %d\t\tHours : %d</string>
+    <string name="egp">EGP</string>
+    <string name="welcome">Welcome</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="booked_up">booked up</string>
+    <string name="report">Report</string>
+    <string name="report_teacher">Report teacher</string>
+    <string name="report_center">Report center</string>
+    <string name="report_1">The teacher did not come</string>
+    <string name="report_2">Bad conversation</string>
+    <string name="report_3">Uncommitted</string>
+    <string name="report_4">Other \( Write your reason \)</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="name">Name</string>
+    <string name="near_by">Nearby</string>
+    <string name="rating">Rating</string>
+    <string name="success">Success !</string>
+    <string name="your_account_has_been_created">Your account has been created !</string>
+    <string name="easy_registration">Easy Registration</string>
+    <string name="finding">Finding</string>
+    <string name="network_connection">Check you internet connection</string>
+    <string name="subject">Subject</string>
+    <string name="years_of_experience">Years of experience</string>
+    <string name="working_hours">Working hours</string>
+    <string name="work_place">Work place</string>
+    <string name="booking">booking</string>
+    <string name="fill_empty">Fill Empty Field !</string>
+    <string name="confirm_field">Confirm field correctly</string>
+    <string name="easy_registration_desc">You can create any number of forms with all the required fields. Easy Registration Forms allows you to create any type</string>
+    <string name="copyright">Copyright © Naga7ny. All rights reserved.</string>
+    <string name="national_id_number">National id number</string>
+    <string name="enter_your_mail_to_send_reset_password_link">Enter your mail to send reset password link</string>
+    <string name="choose_type_desc">You can schedule lessons live with teachers from all any place and time</string>
+    <string name="lat">Lat</string>
+    <string name="lng">Lng</string>
+    <string name="the_kind_of_disability">The kind of disability</string>
+    <string name="loginv">Invalid Email Or Password</string>
+    <string name="passvalid">Password should contain minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character</string>
+    <string name="invemail">Invalid email</string>
+    <string name="filter_view_http_gizmos">"http://www.example.com/gizmos"</string>
+    <string name="code">"Code"</string>
+    <string name="save">Save</string>
+    <string name="updatesuccessfully">Updated Successfully</string>
+    <string name="suggestedfriends">Suggested friends</string>
+    <string name="valid"> Please fill all required fields</string>
+    <string name="codev">Please enter your code</string>
+    <string name="forgetpass">Forget Password</string>
+    <string name="years_experiences">Years Experience</string>
+    <string-array name="yearsofex">
+        <item>"Years of experience"</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dd" />
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">Failed To Load data</string>
+
+
+</resources>
